@@ -1,6 +1,6 @@
 name = "Screenshot to Clipboard (Forge)"
 filename = "screenshot-to-clipboard-neoforge-1.0.10.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

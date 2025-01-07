@@ -1,6 +1,6 @@
 name = "Smarter Farmers (farmers replant)"
 filename = "smarterfarmers-1.21-2.1.5-neoforge.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
