@@ -1,13 +1,14 @@
 name = "Ube's Delight"
-filename = "ubesdelight-neoforge-1.21.1-0.2.3.jar"
+filename = "ubesdelight-neoforge-1.21.1-0.3.1.jar"
 side = "both"
 
 [download]
+url = "https://www.curseforge.com/minecraft/mc-mods/ubes-delight/files/6047497"
 hash-format = "sha1"
-hash = "53c42960a1cbfc2d911a9af16ff1bdec5d382306"
+hash = "ad8e158d946cf90ba6aec407bc767e85c01f39d0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5897794
+file-id = 6047497
 project-id = 903894

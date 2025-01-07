@@ -1,10 +1,11 @@
 name = "Elytra Trims"
 filename = "elytratrims-neoforge-3.5.4+1.21.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
-hash = "2f2b412d7dba8d1c148baed6bb9be2bbdd48fa64"
+hash = "f2052e47477c1d3d1477c89f59d18540f5131bbf"
 mode = "metadata:curseforge"
 
 [update]
