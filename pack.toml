@@ -1,0 +1,13 @@
+name = "Cultivate"
+author = "ChefMooon"
+version = "0.1.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cc83eeed27a9630b656117f70e755fb33692ccaa7d0d00ccf5d8fa43b5cc900d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.93"
