@@ -53,64 +53,16 @@ file = "config/ambientsounds-client.json"
 hash = "d002319f21f057d57ab1e6a018877d57e687b2e3cd6a5479164ec66d98cd0f78"
 
 [[files]]
-file = "config/amendments-client-1.toml.bak"
-hash = "8560acf417e9b13b4e0c463b4fc5a16b51fcb0e873c28b42de965819211968d6"
-
-[[files]]
-file = "config/amendments-client-2.toml.bak"
-hash = "8560acf417e9b13b4e0c463b4fc5a16b51fcb0e873c28b42de965819211968d6"
-
-[[files]]
-file = "config/amendments-client-3.toml.bak"
-hash = "8560acf417e9b13b4e0c463b4fc5a16b51fcb0e873c28b42de965819211968d6"
-
-[[files]]
-file = "config/amendments-client-4.toml.bak"
-hash = "8560acf417e9b13b4e0c463b4fc5a16b51fcb0e873c28b42de965819211968d6"
-
-[[files]]
-file = "config/amendments-client-5.toml.bak"
-hash = "8560acf417e9b13b4e0c463b4fc5a16b51fcb0e873c28b42de965819211968d6"
-
-[[files]]
 file = "config/amendments-client.toml"
 hash = "faab36d7308645eec547688d70497a2dd2d7714ebe1691fe2bb0d67192b6f1cc"
-
-[[files]]
-file = "config/amendments-common-1.toml.bak"
-hash = "21bca3f1137bc7cabfc36b1119a738f4ed015922a170d1406dab57d63877bcf2"
 
 [[files]]
 file = "config/amendments-common.toml"
 hash = "58077520dd8ca4cc525f5d48d5261262280fdf591659de3e378999bbe277f0f8"
 
 [[files]]
-file = "config/amendments-common_synced-1.toml.bak"
-hash = "21bca3f1137bc7cabfc36b1119a738f4ed015922a170d1406dab57d63877bcf2"
-
-[[files]]
-file = "config/amendments-common_synced-2.toml.bak"
-hash = "21bca3f1137bc7cabfc36b1119a738f4ed015922a170d1406dab57d63877bcf2"
-
-[[files]]
-file = "config/amendments-common_synced-3.toml.bak"
-hash = "21bca3f1137bc7cabfc36b1119a738f4ed015922a170d1406dab57d63877bcf2"
-
-[[files]]
-file = "config/amendments-common_synced-4.toml.bak"
-hash = "21bca3f1137bc7cabfc36b1119a738f4ed015922a170d1406dab57d63877bcf2"
-
-[[files]]
-file = "config/amendments-common_synced-5.toml.bak"
-hash = "21bca3f1137bc7cabfc36b1119a738f4ed015922a170d1406dab57d63877bcf2"
-
-[[files]]
 file = "config/amendments-common_synced.toml"
 hash = "21bca3f1137bc7cabfc36b1119a738f4ed015922a170d1406dab57d63877bcf2"
-
-[[files]]
-file = "config/appleskin-client-1.toml.bak"
-hash = "853a99defbbded228db291240bfebdddf8a82b6ef05efa9c280e84aa54fe714e"
 
 [[files]]
 file = "config/appleskin-client.toml"
@@ -125,40 +77,16 @@ file = "config/auto-clicker-fabric.json"
 hash = "92d74b820512cb024f9ba2723e8e10bef476661ce8348b022aa33729508bab5c"
 
 [[files]]
-file = "config/balm-common-1.toml.bak"
-hash = "79d38a2c900a602a515bb6a1357124509aff0d7f014a3b309e8d6d82180c04bf"
-
-[[files]]
 file = "config/balm-common.toml"
 hash = "e2a22c8f410a57c3b3b00509d36385c7cc3933a4c24e43926997bfd98362e686"
-
-[[files]]
-file = "config/betteradvancements-client-1.toml.bak"
-hash = "12f3842fb1b6b9ee8ed405b786f3adae9d64c7a51ec2ce0236a555cf53103b7b"
 
 [[files]]
 file = "config/betteradvancements-client.toml"
 hash = "38e88509078026a5a660e00947e5a6db74a3c374c8c7978ef64c360167f84db9"
 
 [[files]]
-file = "config/bettercombat/client.json5"
-hash = "e8064b014f9e01c27b63877f98410dd166f79b562aabb0d8fc365aeef2616902"
-
-[[files]]
-file = "config/bettercombat/fallback_compatibility.json"
-hash = "754feb4474a3f4d9fe6bd08f38c248fd5a796ed51f38d7d5704680250f3a34ca"
-
-[[files]]
-file = "config/bettercombat/server.json5"
-hash = "4adc775a1887d68d8930fa3be1e752f3354ba8b2ccacf69ee63deb525e7444d6"
-
-[[files]]
 file = "config/carryon-client.toml"
 hash = "865a366143df5f4d92941058c823ea48deb8445f6444b45e870331b16a444f0f"
-
-[[files]]
-file = "config/carryon-common-1.toml.bak"
-hash = "f8cf7f8760619ef30d517febeff6badfb507ae465a27752c662b136271ffa116"
 
 [[files]]
 file = "config/carryon-common.toml"
@@ -185,32 +113,16 @@ file = "config/comforts-server.toml"
 hash = "f6df47d3f1002fde8d9e59c8068acbc39e976b3392e8fd528dc9b38b2856c5a0"
 
 [[files]]
-file = "config/computercraft-client-1.toml.bak"
-hash = "5530724671089984910e530f41ffbde354109aed1adf24a28f12c42ecfd26322"
-
-[[files]]
 file = "config/computercraft-client.toml"
 hash = "db7bbdc89ab05070b2a4c22f6348b0c80aca4a3c449d92cdc6bc56b5af25ff7b"
-
-[[files]]
-file = "config/computercraft-server-1.toml.bak"
-hash = "0c51ba69ca65d140ebf17fe02a15ed2b8b0fec84cdf5fdce249ad82009b8a433"
 
 [[files]]
 file = "config/computercraft-server.toml"
 hash = "7a1e79c44a2cad45cde5d94afd3c0ef02a19666564e82d138104b604dce1e7ab"
 
 [[files]]
-file = "config/corpse-server-1.toml.bak"
-hash = "567ba98daa63857c41f87bf35c2a222bf0f951408dca98b461766881527a26bc"
-
-[[files]]
 file = "config/corpse-server.toml"
 hash = "806dc2002f95b1bcd16dec843051abc513576a1986ea1931d8c2cc82aef201c7"
-
-[[files]]
-file = "config/cosmeticarmorreworked-client-1.toml.bak"
-hash = "50b74271e1178b4b9708dbb749c38c4d74ddcdd459965fb36a97463660a53e4f"
 
 [[files]]
 file = "config/cosmeticarmorreworked-client.toml"
@@ -225,10 +137,6 @@ file = "config/craftingtweaks-common.toml"
 hash = "6f2a0de9bf7a64540881d1d43912be340ff8281f2307d947c652782ddd52e48c"
 
 [[files]]
-file = "config/curios-client-1.toml.bak"
-hash = "7526f4334e8c465e00d8894745d3d9fc8178536e741117f5ee33f88fe077306e"
-
-[[files]]
 file = "config/curios-client.toml"
 hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
 
@@ -237,16 +145,8 @@ file = "config/curios-common.toml"
 hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
 
 [[files]]
-file = "config/curios-server-1.toml.bak"
-hash = "01f5208ba62755d5db4402793106a58cbec7b2238819df7fe068b4dd0517d43a"
-
-[[files]]
 file = "config/curios-server.toml"
 hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
-
-[[files]]
-file = "config/deeperdarker-common-1.toml.bak"
-hash = "e07235319013181e21343a5e3dca0f75b4cc2d8f47a795f8dd9f8ce3d9d6167e"
 
 [[files]]
 file = "config/deeperdarker-common.toml"
@@ -293,16 +193,8 @@ file = "config/expandeddelight-common.toml"
 hash = "e49e9e593220f269e65ab5940a850b743356376cddb357e6f765b11fa571e6bd"
 
 [[files]]
-file = "config/extremesoundmuffler-client-1.toml.bak"
-hash = "b04e10e3297820e505fef4ff76722c32f3cf91009745f1cd53f4d96e2305bc81"
-
-[[files]]
 file = "config/extremesoundmuffler-client.toml"
 hash = "31a037801309182a27f91d011889c5487783e287a153ab3529359f984fd6c386"
-
-[[files]]
-file = "config/fallingleaves-client-1.toml.bak"
-hash = "bfea2737fb3cf7b7d0f95d355a0643f294f04e687237a867c0aab1cb480746f2"
 
 [[files]]
 file = "config/fallingleaves-client.toml"
@@ -367,10 +259,6 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 [[files]]
 file = "config/farmersdelight-client.toml"
 hash = "0aef81f57e2afd3906cf175407fa0725c3186eae76f0708a87454eaa57c9d72c"
-
-[[files]]
-file = "config/farmersdelight-common-1.toml.bak"
-hash = "77b107468c55d93a193db68bd74fcc620c87ce4282fca92f653c3034d155767b"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
@@ -469,10 +357,6 @@ file = "config/jamlib/known_suspicious_jars.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/jei-server-1.toml.bak"
-hash = "9b054057cef0f6239322b1cee9a08ddf98452f573a15043811424a68ea162c64"
-
-[[files]]
 file = "config/jei-server.toml"
 hash = "702acd04d99445bce659d04fcc488e1a98c8a803983c31ae262b0f3a47fdc8d3"
 
@@ -545,32 +429,12 @@ file = "config/lithostitched.json"
 hash = "c92f34f712c577a46232d1fa7e6d2c88d1f91774570b6b7d58dd1be9a10ec5b6"
 
 [[files]]
-file = "config/lootr-client-1.toml.bak"
-hash = "eb7651737cc96c5aa046a8832c9e059bd8f9e747e67c9f70319ef8fae8a17128"
-
-[[files]]
-file = "config/lootr-client-2.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/lootr-client.toml"
 hash = "97d9e6f4b3fa443cc4fceb3f6bff16d1ba882e654f7e5a889fa693f4f1770771"
 
 [[files]]
-file = "config/lootr-common-1.toml.bak"
-hash = "0d7059065178764148fa761d0cd799a4dd765273aa0f4de0bc14228847814f5e"
-
-[[files]]
-file = "config/lootr-common-2.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/lootr-common.toml"
 hash = "708f96042fd41f8c44f2bf98a0b5482ac65f7b9870da467b78bc9dd9f66f8475"
-
-[[files]]
-file = "config/measurements-client-1.toml.bak"
-hash = "ed053be4b03bfdefa667ac78431c630b8ff688d127fc2aed1021e2f7650ba250"
 
 [[files]]
 file = "config/measurements-client.toml"
@@ -581,10 +445,6 @@ file = "config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
-file = "config/minecolonies-client-1.toml.bak"
-hash = "806ec499c3662a5c736be9e221e19c3ae8285b346f7225be1f5f6743554ca7da"
-
-[[files]]
 file = "config/minecolonies-client.toml"
 hash = "64fab1d357b018f2cea5cea577ede753dd9ee3ddcd828dde201aea949ac86a1e"
 
@@ -593,16 +453,8 @@ file = "config/minecolonies-common.toml"
 hash = "b7308712fbb5044fff1f8354302921fad9e19b053da60d5c0c69f4c4c819a37a"
 
 [[files]]
-file = "config/minecolonies-server-1.toml.bak"
-hash = "b3857a39ff2ada4e1406b4a48f80660068d46b2a47e9eca7b739f009b4fbeb99"
-
-[[files]]
 file = "config/minecolonies-server.toml"
 hash = "669fbfb3314363b41fca19d29bb4b80bd275b875e24e4a454e4b311758436373"
-
-[[files]]
-file = "config/modelfix-client-1.toml.bak"
-hash = "6d25c0ed505783139b4a6837dc0c80b304b350dc21cde70c6d8a6c9b2ee28059"
 
 [[files]]
 file = "config/modelfix-client.toml"
@@ -615,10 +467,6 @@ hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "c8adfb6375c4d85c63c66f7520432c31485ac900d99db7fd44f33f670fb6912f"
-
-[[files]]
-file = "config/moonlight-client-1.toml.bak"
-hash = "556c8de10ee9015f88f802588febb1c51ff429f945bedf8b20c9aa833126e819"
 
 [[files]]
 file = "config/moonlight-client.toml"
@@ -645,16 +493,8 @@ file = "config/notenoughanimations.json"
 hash = "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34"
 
 [[files]]
-file = "config/openpartiesandclaims-server-1.toml.bak"
-hash = "58dd90049f4fad92b2fbd7e2f95d66733a47010b31cc91aa5fc19def7c9ad161"
-
-[[files]]
 file = "config/openpartiesandclaims-server.toml"
 hash = "4d3a991d0f3b9c6dfde2c5c8ecf54968833f4e4a3cf728dc39af99634e3047e5"
-
-[[files]]
-file = "config/pickupnotifier/pickupnotifier-client-1.toml.bak"
-hash = "6a92b58ea5b00aef77093cca3580fd5f237422e6c98dda58e384ec9c9d143f6b"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
@@ -699,10 +539,6 @@ hash = "ccb23764d475152ed86080fb0e07451315f2b1a59d2a94f7020cffc2c3d60196"
 [[files]]
 file = "config/smallships-common.toml"
 hash = "3857836632c9ede52ba052171fc45874ffa15127af9958adb5b13b486c6ac6fe"
-
-[[files]]
-file = "config/smarterfarmers-common-1.toml.bak"
-hash = "1089efb63a893844d9013aeb95f4f80363d29e244f52bc2d366a262d1dc1015b"
 
 [[files]]
 file = "config/smarterfarmers-common.toml"
@@ -761,16 +597,8 @@ file = "config/spark/tmp/about.txt"
 hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
 
 [[files]]
-file = "config/structurize-client-1.toml.bak"
-hash = "c342ab1f7c8a9d2f95d5dfa88a5f549e9d9dbde7177c09a62aaf2d744b6e90e3"
-
-[[files]]
 file = "config/structurize-client.toml"
 hash = "8250392146fbe4f5903e6d63c8228da263d696da53f0ea1d614fd8bdcf75141b"
-
-[[files]]
-file = "config/structurize-server-1.toml.bak"
-hash = "5dc8816dd8425ab95b109dd905db2e5e4a3b26a504c36d3c13c467ed498ddcf7"
 
 [[files]]
 file = "config/structurize-server.toml"
@@ -785,10 +613,6 @@ file = "config/toms_peripherals-common.toml"
 hash = "9c06e820767f81d75a835923501f3a6c783ce4e28a68c4a8140d672986c92a8b"
 
 [[files]]
-file = "config/toms_peripherals-server-1.toml.bak"
-hash = "8117e16e709fd203a8f0bd93b22be0e0a6adc7a2d7c4fb48e1f1ff8935d7b899"
-
-[[files]]
 file = "config/toms_peripherals-server.toml"
 hash = "ec46e9422d3849d79ccad18293bea72f9e493f45d95131d932347531746597e2"
 
@@ -797,16 +621,8 @@ file = "config/toms_storage-common.toml"
 hash = "7526db9cc2784f1ad0d571e8ea810f607b51c9d981437a21bd75654f3d47045d"
 
 [[files]]
-file = "config/toms_storage-server-1.toml.bak"
-hash = "cd597e8de3d98151b594c16c77e0de87c38d396505a7a57861328703574674e6"
-
-[[files]]
 file = "config/toms_storage-server.toml"
 hash = "8927d44c31f267698d3b47912be28fa25c5834d7c2780fdf1d83cccce9f7c95c"
-
-[[files]]
-file = "config/toolbelt-client-1.toml.bak"
-hash = "dfab4550a55834884c0b7499d62666b00d68ae58a3514a7400f31c71eb9f25b0"
 
 [[files]]
 file = "config/toolbelt-client.toml"
@@ -877,16 +693,8 @@ file = "config/waila/waila_plugins.json5"
 hash = "7d7a4a92c184151baadbe307b238f4ea29a9282be1b81f400af0d65feea9f345"
 
 [[files]]
-file = "config/watut-client-1.toml.bak"
-hash = "6c4eb571c3b5b1711edbac55cb89ec3bd5d23f4646307071cb7bcc7ceed1da49"
-
-[[files]]
 file = "config/watut-client.toml"
 hash = "752d0ac238cfe92f30055ec8e417c98c309b07cd30467c22b16c90dc86cf228e"
-
-[[files]]
-file = "config/watut-common-1.toml.bak"
-hash = "a6a60726ace36c4f07236eaed08d2558b13c1af7f50f9e51518c63ea53dcdf6d"
 
 [[files]]
 file = "config/watut-common.toml"
@@ -895,10 +703,6 @@ hash = "93d4055b22552b80ae5f96d396b335910993ab7010b562a34291adade59df4f6"
 [[files]]
 file = "config/watut-item-arm-adjustments.json"
 hash = "c3f6428a4b3f952eb3fcd29dc370f270b97dc720bf0806d1e660d11ff2327051"
-
-[[files]]
-file = "config/waystones-common-1.toml.bak"
-hash = "3b428c6343694b83e9f9d623345d86e7281a250c53ed834c2909db3c56f4914e"
 
 [[files]]
 file = "config/waystones-common.toml"
