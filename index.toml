@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "054267e451f86286659c1a53112ecca52fd83e18c7cb3fc9655c20fb889490f9"
-
-[[files]]
-file = "README.md"
-hash = "2b38027f54c668b2a298bf7ba43079dee62680596c8d76edb60d025c2438f58d"
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
@@ -35,10 +27,6 @@ hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
 [[files]]
 file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
-
-[[files]]
-file = "config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/accessories.json5"
@@ -1491,7 +1479,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2e2e6f326fecd0676c43625f24eb58bb7501373c4295332108ab3e8228fb1a2f"
+hash = "c210c865ff6e78a0c97d465bb456fa893a3d247917f154abbf373ab41049b05e"
 
 [[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"
