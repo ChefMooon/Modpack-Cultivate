@@ -935,6 +935,11 @@ hash = "ec7944a564413218a8c492f5542019fb9180531207c7ae5cada89b1b3dbf3bc2"
 metafile = true
 
 [[files]]
+file = "mods/display-delight.pw.toml"
+hash = "7498c6edae2724233ceff7c81114e92714d4676f2d48fc146756ca8303605e9d"
+metafile = true
+
+[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "00b6f33f8722bb5df846ffa573ed8060c1a3b4c416824e4dc3531bed2d595a41"
 metafile = true
@@ -1060,6 +1065,11 @@ hash = "9fa9178a07fd25e85dc333b722c125ca325ee4f3bc8ad2210ca426a393bbe96e"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "3010f7655117c597505eaff4d895fe7352fcefd26607782e9b2fa65b41567c26"
+metafile = true
+
+[[files]]
 file = "mods/hand-over-your-items.pw.toml"
 hash = "892f8802562ea7a16072d343278751347db27927e45f9a2e91f3032975bca5b5"
 metafile = true
@@ -1132,6 +1142,11 @@ metafile = true
 [[files]]
 file = "mods/lighty.pw.toml"
 hash = "50b406950847be40026ba9191c5e0017ebe9015293b11b7e3ded9cc2ba42da0c"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "e2565b5d04fd1157bc97dcac1da9dbd30f2d322be24e2f6ca1f05475ba3aeb18"
 metafile = true
 
 [[files]]
@@ -1372,6 +1387,11 @@ metafile = true
 [[files]]
 file = "mods/structurize.pw.toml"
 hash = "f4ecd04d3529e800a38cbbcdc1f960f52e59f7c907e0c16f23d930cd5b0b4a18"
+metafile = true
+
+[[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "c15ffce076f1c8afee8944b4fca4c0a596f370a7378fee5d2e047834e0db84a9"
 metafile = true
 
 [[files]]
