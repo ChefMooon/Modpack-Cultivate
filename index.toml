@@ -774,7 +774,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-poser.pw.toml"
-hash = "ed7e7578be858c6d2d9ea175846ae8095620917d86b42ada903a381c32e2ebe1"
+hash = "bf3bed463f8cbbc20da3b9f2a91bb8635a76d2abe2e4b40fe1fa8a017611f72e"
 metafile = true
 
 [[files]]
@@ -820,6 +820,11 @@ metafile = true
 [[files]]
 file = "mods/breeze-bounce.pw.toml"
 hash = "ff5cb4bc5917e0981d0ee677c31bd6294f9ed991ae0a6bef9f2bcb4230f8e51a"
+metafile = true
+
+[[files]]
+file = "mods/c2me.pw.toml"
+hash = "bad02289e67dae197fba72266f0bb15272f0f1cfb330ae15e665d2df31e0b49c"
 metafile = true
 
 [[files]]
@@ -1000,6 +1005,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "0cc3c8261c2f64512a787277dd4158b61e26a6e4c9c0ab26186c0f70d7a2d5cd"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "35bad9f01671b5b4284ad547dab6635b2a029980c88d82007690e9232a5cb420"
 metafile = true
 
 [[files]]
@@ -1238,6 +1248,11 @@ hash = "1dc16fe98446b86b94a8bfa08f07accf11a7b07fc39730b2e7b32560dcaf1c45"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "b5be9033308bb88924ddbc0eb95011a6ad1674099f0db976ab5e05a28afc4971"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "6f3df134c78b1446b01a369eccc0a8dde11f5debec853dfec334b7fb4beb5026"
 metafile = true
@@ -1379,7 +1394,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "c15ffce076f1c8afee8944b4fca4c0a596f370a7378fee5d2e047834e0db84a9"
+hash = "26e6eaf4817f7450409d4fed8ef2bf3ed492d4e3a684d18bedd6624965d3f79e"
 metafile = true
 
 [[files]]
@@ -1430,6 +1445,11 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "f726e4036faaa7a1dda028348939a09264f4f6cc789efa087f782ea0c294bd45"
+metafile = true
+
+[[files]]
+file = "mods/trimmable-tools.pw.toml"
+hash = "200ea982bda351163b80131fe3a66d07c94832ca4ebd478b229a4a09e30760ad"
 metafile = true
 
 [[files]]
@@ -1517,15 +1537,15 @@ hash = "7a19867501dbc65676a0b61a3cea2fbe7bc0f91003925b0136d162c8d2016e40"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "d479bbe8293b2733e288c3b5591cb3e48bcfdccdb60ddbd578bca4770a744caa"
+hash = "e41cf7301dad6a8fa890510e8d9be88e61b8a7bc1f6c0b0dafad609adbffc345"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "59da31b1a0add66422b1e86676db55efe0864c91abc6706203282f213062269a"
+hash = "cb396a17b27249bb3ad5b9c6273c3087de81d7214d290dd1e4e7de90c2697c27"
 metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
-hash = "cbc31c1923bd96e6b20b34ce807b5921c0e2b24f6f396dda3baddb1bf474be4a"
+hash = "27a79d8d7686189b69dad1294bd3e5bcb06a3117d53ebaa677368c84c727955a"
 metafile = true
