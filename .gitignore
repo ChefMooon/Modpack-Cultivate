@@ -4,6 +4,9 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
 
+# Exclude CF Releases
+*.zip
+
 # Exclude IDE files
 .idea
 .vscode

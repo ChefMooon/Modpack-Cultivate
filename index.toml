@@ -1502,8 +1502,8 @@ file = "options.txt"
 hash = "c210c865ff6e78a0c97d465bb456fa893a3d247917f154abbf373ab41049b05e"
 
 [[files]]
-file = "resourcepacks/cubic-sun-moon.pw.toml"
-hash = "a6067de910898e6b132045cea193f30bba6224a0400f5a4c099f82e3b39c9a69"
+file = "resourcepacks/cubic-stars.pw.toml"
+hash = "a8b0d3f0a3cecd7d40df5c836964cb9000bfaa1473bb6978fdea026d0f7673e4"
 metafile = true
 
 [[files]]
@@ -1513,7 +1513,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/icon-xaeros.pw.toml"
-hash = "a8834e7aa0c6fea1615c05e1d43f84540ff0b1e2282c2cea93261baee7f9460f"
+hash = "865f6a441ecc6d625cf36ae37f0239e0a6eace89451748847ce7c1a6847782b5"
 metafile = true
 
 [[files]]
