@@ -1,0 +1,19 @@
+# Exclude .md
+*.md
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+# Exclude packwiz git hooks and utils
+prism
+output
+scripts
+LICENSE
+.github
+.gitattributes
+.gitignore
+enable_hooks.sh
+*.disabled
+
+# Exclude github pages CNAME file
+CNAME
