@@ -12,6 +12,7 @@ LICENSE
 .github
 .gitattributes
 .gitignore
+.git/**
 enable_hooks.sh
 *.disabled
 

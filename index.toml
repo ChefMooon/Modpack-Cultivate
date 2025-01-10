@@ -514,7 +514,7 @@ hash = "ebbf0697d0fef9d7cf4255fb3bf76b4cd136436af659fc440d554c48483e75a3"
 
 [[files]]
 file = "config/sdrp-common.json"
-hash = "e1f7636012d9a12547c6c880eeb2bfc4e380d25ee9aaa07907115ac59db52a3f"
+hash = "cc2fc5e4888159339bf39795225e173739c2be0665d517ce30ae6e02c6cf1484"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -726,7 +726,7 @@ hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
 file = "icon.png"
-hash = "a219bcf6a444cdf821105520c2d4cbce1b98268ba292c94c8d27220f45740ce1"
+hash = "28071ddfd3601fae404edad50150f84cda4187b244dedfb889c38fe16b217f9b"
 
 [[files]]
 file = "instance.png"
@@ -1294,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "6f551bc9bc8c33bc05abae231ce761d42c5622ccdb25bd9b22496c80391e13c5"
+hash = "1de8c392a980637b44fa0c51bbaf056c15481eb9a904f7bdb540ceb567dfddae"
 metafile = true
 
 [[files]]
@@ -1344,7 +1344,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rich-presence.pw.toml"
-hash = "5c8f4b62d20d5a21820ccaaf4caf772e9829092f2bd9beeba02bed7044f1f09b"
+hash = "bf0ed97c305098e106f563cb965ef85988a8d0aac9c7e72db28486a19bf59c76"
 metafile = true
 
 [[files]]
