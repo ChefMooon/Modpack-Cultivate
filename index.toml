@@ -784,7 +784,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "987db862458b41efdc8e2d45f3713c908a203ff7839afc9cf0f67b20ef3040f4"
+hash = "4696bddb459f4dade3c1be79d05e53566a975ae675d2e80a6e2760edbe223a45"
 metafile = true
 
 [[files]]
@@ -1003,11 +1003,6 @@ hash = "513eb1780758451f76422913a040e7a98d45660ad187e3b6701b8b500ffb4cde"
 metafile = true
 
 [[files]]
-file = "mods/expanded-delight.pw.toml"
-hash = "0cc3c8261c2f64512a787277dd4158b61e26a6e4c9c0ab26186c0f70d7a2d5cd"
-metafile = true
-
-[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "35bad9f01671b5b4284ad547dab6635b2a029980c88d82007690e9232a5cb420"
 metafile = true
@@ -1060,6 +1055,11 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "9fa9178a07fd25e85dc333b722c125ca325ee4f3bc8ad2210ca426a393bbe96e"
+metafile = true
+
+[[files]]
+file = "mods/frights-delight.pw.toml"
+hash = "6583d21a345a2d189901625b13b5aa1dc8dd1911855bba9b21544492139c7112"
 metafile = true
 
 [[files]]
@@ -1149,7 +1149,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "82132690cfbc3b6a395880cc68152a58aba27b993b5df5dd6edccea4e267958b"
+hash = "a392e185786696832c603ee37f3af599d6c315b9a2df59db24fba463b3f1a7a8"
 metafile = true
 
 [[files]]
@@ -1284,7 +1284,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "3fc94e8837b50c5ad868e7f66a655cd2435c6a98dd66a32ad55dc659aa53f103"
+hash = "dd9d9afbd257c59a0a738cca47d6028003e6088b645e7dfab52d708056153e34"
 metafile = true
 
 [[files]]
@@ -1294,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "17406a6e9845459e25e45295e6ccdabef9dc15500e0bdc3eb608a13dbdf408a8"
+hash = "6f551bc9bc8c33bc05abae231ce761d42c5622ccdb25bd9b22496c80391e13c5"
 metafile = true
 
 [[files]]
@@ -1419,7 +1419,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "93c1d332198578b6be32e3219d1beb96ba029a4a2bd4dde02ecd6ab0c5f46f0d"
+hash = "50a10b3fc940fbb359061fca4f780239b04262bff7eaa1b1898876d0f695164b"
 metafile = true
 
 [[files]]
@@ -1474,7 +1474,7 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-hash = "956f9c30e3c6fb8db2fecd10048dda8eb047dc4680db7b82e7b024ec84d449d9"
+hash = "de1dc474e41e3a93d852c04e25c42938b95eb4988d8de416d4dd007954ee08ab"
 metafile = true
 
 [[files]]
