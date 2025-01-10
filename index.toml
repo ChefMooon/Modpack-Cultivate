@@ -442,7 +442,7 @@ hash = "b7308712fbb5044fff1f8354302921fad9e19b053da60d5c0c69f4c4c819a37a"
 
 [[files]]
 file = "config/minecolonies-server.toml"
-hash = "669fbfb3314363b41fca19d29bb4b80bd275b875e24e4a454e4b311758436373"
+hash = "6de12ff45341c11f61600f8626534613eab5c75b84e06987a27755b3fd6430b0"
 
 [[files]]
 file = "config/modelfix-client.toml"
@@ -1000,6 +1000,11 @@ metafile = true
 [[files]]
 file = "mods/everythingcopper.pw.toml"
 hash = "513eb1780758451f76422913a040e7a98d45660ad187e3b6701b8b500ffb4cde"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "92d67676fe84c5008443448c73dcaa73c3574de0b5f9bee651490fb7d167e2e9"
 metafile = true
 
 [[files]]

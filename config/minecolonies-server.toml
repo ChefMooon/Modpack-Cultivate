@@ -117,17 +117,17 @@
 	#minecolonies.config.barbarianhordedifficulty.comment [Default: 5, min: 0, max: 10]
 	# Default: 5
 	# Range: 0 ~ 10
-	barbarianhordedifficulty = 5
+	barbarianhordedifficulty = 4
 	#minecolonies.config.maxBarbarianSize.comment [Default: 80, min: 6, max: 400]
 	# Default: 80
 	# Range: 6 ~ 400
-	maxBarbarianSize = 80
+	maxBarbarianSize = 60
 	#minecolonies.config.dobarbariansbreakthroughwalls.comment [Default: true]
-	dobarbariansbreakthroughwalls = true
+	dobarbariansbreakthroughwalls = false
 	#The average number of nights between raids. [Default: 14, min: 1, max: 50]
 	# Default: 14
 	# Range: 1 ~ 50
-	averagenumberofnightsbetweenraids = 14
+	averagenumberofnightsbetweenraids = 24
 	#The minimum number of nights between raids. [Default: 10, min: 1, max: 30]
 	# Default: 10
 	# Range: 1 ~ 30
